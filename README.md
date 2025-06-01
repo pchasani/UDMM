@@ -5,6 +5,7 @@ This repository contains the **Python implementation** of:
 - `UU-test`: A statistical **unimodality** test for deciding data unimodality (for the **MATLAB version**, see [MATLAB UU-test Repository](https://github.com/pchasani/UUtest))
 - `UniSplit`: A valley detection method for determining valley points of univariate multimodal datasets and obtaining partitions into unimodal subsets.
 - `UDMM`: A statistical mixture model (**Unimodal Mixture Model**), where each mixture component corresponds to a unimodal distribution.
+- **demo** examples for testing and visualization are included in the UU-test and UDMM files.
 
 
 Unimodality constitutes a key property indicating grouping behavior of the
